@@ -1,4 +1,4 @@
-package com.booleanuk.api.bagels;
+package com.booleanuk.api.bagels.example;
 
 public class Bagel {
     private int id;
